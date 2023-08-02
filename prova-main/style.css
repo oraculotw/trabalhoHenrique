@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;    
+    
+}
+
+header {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+ 
+}
+
+.creatina {
+    width: 30%;
+    padding-left: 500px ;
+    position: relative;
+    cursor: move;
+    display: flex;
+}
+.creatina2 {
+    width: 30%;
+    cursor: move;
+    display: flex;
+}
+
+
+.lista_item {
+
+    margin: 20px 0 16px;
+    font-size: 40px;
+    position: relative;
+    display: flex;
+}
+
+.texto {
+   background-image: linear-gradient(#052050, #4EBFE9);
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+a:visited {
+    color: azure;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(250, 252, 255);
+    text-decoration: none;
+}
+
+.segundotexto {
+    color: azure;
+    font-family: 'Bebas Neue', cursive;
+    padding: 10px;
+}
+
+.link {
+    padding: 10px;
+}
+
+.texto {
+    font-size: 50px;
+}
+
+.rodape{
+
+    display: flex;
+    position: absolute;
+}
+
+
